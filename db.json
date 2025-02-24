@@ -1,0 +1,1004 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Enchanted Forest",
+        "author": "Alice Monroe",
+        "genre": "Fantasy",
+        "published_year": 1998,
+        "isbn": "978-0000000001",
+        "description": "A journey through a magical forest where every tree has a secret.",
+        "availability": true
+      },
+      {
+        "id": 2,
+        "title": "Mystery of the Old Mansion",
+        "author": "Bob Clayton",
+        "genre": "Mystery",
+        "published_year": 2003,
+        "isbn": "978-0000000002",
+        "description": "A detective unravels secrets hidden within the walls of an abandoned mansion.",
+        "availability": false
+      },
+      {
+        "id": 3,
+        "title": "Space Beyond",
+        "author": "Catherine Reeves",
+        "genre": "Science Fiction",
+        "published_year": 2010,
+        "isbn": "978-0000000003",
+        "description": "An interstellar voyage to discover new worlds and alien civilizations.",
+        "availability": true
+      },
+      {
+        "id": 4,
+        "title": "The Last Kingdom",
+        "author": "David Ellis",
+        "genre": "Historical Fiction",
+        "published_year": 1987,
+        "isbn": "978-0000000004",
+        "description": "A tale of power struggles and betrayal in medieval times.",
+        "availability": true
+      },
+      {
+        "id": 5,
+        "title": "Whispers of the Night",
+        "author": "Eva Sinclair",
+        "genre": "Horror",
+        "published_year": 1995,
+        "isbn": "978-0000000005",
+        "description": "A chilling story of supernatural encounters in a quiet town.",
+        "availability": false
+      },
+      {
+        "id": 6,
+        "title": "A Walk in the Clouds",
+        "author": "Frank Dalton",
+        "genre": "Romance",
+        "published_year": 2001,
+        "isbn": "978-0000000006",
+        "description": "An uplifting romance that transcends time and space.",
+        "availability": true
+      },
+      {
+        "id": 7,
+        "title": "The Quantum Enigma",
+        "author": "Grace Liu",
+        "genre": "Science",
+        "published_year": 2018,
+        "isbn": "978-0000000007",
+        "description": "Exploring the mysteries of quantum physics and its impact on our world.",
+        "availability": true
+      },
+      {
+        "id": 8,
+        "title": "Legends of the Sea",
+        "author": "Henry Matthews",
+        "genre": "Adventure",
+        "published_year": 1990,
+        "isbn": "978-0000000008",
+        "description": "A high-seas adventure filled with pirates, treasures, and danger.",
+        "availability": false
+      },
+      {
+        "id": 9,
+        "title": "Code of Honor",
+        "author": "Isabel Torres",
+        "genre": "Thriller",
+        "published_year": 2006,
+        "isbn": "978-0000000009",
+        "description": "A gripping thriller about loyalty and deception in a modern world.",
+        "availability": true
+      },
+      {
+        "id": 10,
+        "title": "Beyond the Horizon",
+        "author": "Jack Robinson",
+        "genre": "Adventure",
+        "published_year": 2012,
+        "isbn": "978-0000000010",
+        "description": "An inspiring journey of exploration and self-discovery.",
+        "availability": true
+      },
+      {
+        "id": 11,
+        "title": "The Silent Echo",
+        "author": "Karen Brooks",
+        "genre": "Mystery",
+        "published_year": 1999,
+        "isbn": "978-0000000011",
+        "description": "A detective story filled with unexpected twists and hidden clues.",
+        "availability": false
+      },
+      {
+        "id": 12,
+        "title": "Dreams of Tomorrow",
+        "author": "Leonard Ford",
+        "genre": "Science Fiction",
+        "published_year": 2005,
+        "isbn": "978-0000000012",
+        "description": "A futuristic tale of innovation, challenges, and the human spirit.",
+        "availability": true
+      },
+      {
+        "id": 13,
+        "title": "The Forgotten Realm",
+        "author": "Monica Young",
+        "genre": "Fantasy",
+        "published_year": 1992,
+        "isbn": "978-0000000013",
+        "description": "An epic fantasy about a lost kingdom and its legendary heroes.",
+        "availability": true
+      },
+      {
+        "id": 14,
+        "title": "Shadows in the Dark",
+        "author": "Nathan Cole",
+        "genre": "Horror",
+        "published_year": 2011,
+        "isbn": "978-0000000014",
+        "description": "A horror novel where nightmares come to life.",
+        "availability": false
+      },
+      {
+        "id": 15,
+        "title": "Bridges of Time",
+        "author": "Olivia King",
+        "genre": "Historical Fiction",
+        "published_year": 1985,
+        "isbn": "978-0000000015",
+        "description": "A story that connects different eras through love and conflict.",
+        "availability": true
+      },
+      {
+        "id": 16,
+        "title": "The Last Voyage",
+        "author": "Paul Bennett",
+        "genre": "Adventure",
+        "published_year": 2008,
+        "isbn": "978-0000000016",
+        "description": "A maritime adventure with dangerous storms and hidden islands.",
+        "availability": true
+      },
+      {
+        "id": 17,
+        "title": "City of Secrets",
+        "author": "Quincy Harper",
+        "genre": "Mystery",
+        "published_year": 2013,
+        "isbn": "978-0000000017",
+        "description": "A detective navigates a sprawling city full of unsolved mysteries.",
+        "availability": false
+      },
+      {
+        "id": 18,
+        "title": "Winds of Change",
+        "author": "Rebecca Allen",
+        "genre": "Drama",
+        "published_year": 1997,
+        "isbn": "978-0000000018",
+        "description": "A dramatic narrative about change, loss, and new beginnings.",
+        "availability": true
+      },
+      {
+        "id": 19,
+        "title": "Into the Abyss",
+        "author": "Samuel Grant",
+        "genre": "Thriller",
+        "published_year": 2000,
+        "isbn": "978-0000000019",
+        "description": "A suspenseful thriller that delves deep into human fears.",
+        "availability": true
+      },
+      {
+        "id": 20,
+        "title": "The Hidden Garden",
+        "author": "Tina Morales",
+        "genre": "Fiction",
+        "published_year": 1994,
+        "isbn": "978-0000000020",
+        "description": "A touching story about rediscovering beauty in unexpected places.",
+        "availability": false
+      },
+      {
+        "id": 21,
+        "title": "Echoes of the Past",
+        "author": "Uma Patel",
+        "genre": "Historical Fiction",
+        "published_year": 1988,
+        "isbn": "978-0000000021",
+        "description": "A narrative that bridges generations through shared memories.",
+        "availability": true
+      },
+      {
+        "id": 22,
+        "title": "Realm of Wonders",
+        "author": "Victor Chen",
+        "genre": "Fantasy",
+        "published_year": 2002,
+        "isbn": "978-0000000022",
+        "description": "An imaginative tale set in a world of magical creatures.",
+        "availability": true
+      },
+      {
+        "id": 23,
+        "title": "The Iron Fortress",
+        "author": "Wendy Larson",
+        "genre": "Adventure",
+        "published_year": 2015,
+        "isbn": "978-0000000023",
+        "description": "A gripping adventure featuring a quest to liberate a captured city.",
+        "availability": false
+      },
+      {
+        "id": 24,
+        "title": "Mystic Rivers",
+        "author": "Xavier Ruiz",
+        "genre": "Fantasy",
+        "published_year": 1993,
+        "isbn": "978-0000000024",
+        "description": "A novel where ancient legends flow with the current of a mystic river.",
+        "availability": true
+      },
+      {
+        "id": 25,
+        "title": "Silent Whispers",
+        "author": "Yvonne Scott",
+        "genre": "Mystery",
+        "published_year": 2007,
+        "isbn": "978-0000000025",
+        "description": "A mysterious narrative filled with secret conversations and hidden clues.",
+        "availability": true
+      },
+      {
+        "id": 26,
+        "title": "The Celestial Map",
+        "author": "Zachary Green",
+        "genre": "Science Fiction",
+        "published_year": 2017,
+        "isbn": "978-0000000026",
+        "description": "A futuristic journey through space guided by a map of the stars.",
+        "availability": false
+      },
+      {
+        "id": 27,
+        "title": "Dawn of Legends",
+        "author": "Alice Monroe",
+        "genre": "Fantasy",
+        "published_year": 1996,
+        "isbn": "978-0000000027",
+        "description": "A sequel to a beloved fantasy saga that introduces new heroes.",
+        "availability": true
+      },
+      {
+        "id": 28,
+        "title": "The Forgotten Code",
+        "author": "Bob Clayton",
+        "genre": "Thriller",
+        "published_year": 2004,
+        "isbn": "978-0000000028",
+        "description": "A puzzle-like thriller where deciphering an old code becomes a race against time.",
+        "availability": true
+      },
+      {
+        "id": 29,
+        "title": "Galactic Horizons",
+        "author": "Catherine Reeves",
+        "genre": "Science Fiction",
+        "published_year": 2011,
+        "isbn": "978-0000000029",
+        "description": "Exploring new frontiers in a universe filled with wonders and dangers.",
+        "availability": false
+      },
+      {
+        "id": 30,
+        "title": "Beneath the Surface",
+        "author": "David Ellis",
+        "genre": "Mystery",
+        "published_year": 1990,
+        "isbn": "978-0000000030",
+        "description": "A mystery that goes deeper than it appears, hiding secrets beneath calm waters.",
+        "availability": true
+      },
+      {
+        "id": 31,
+        "title": "Heart of the Storm",
+        "author": "Eva Sinclair",
+        "genre": "Drama",
+        "published_year": 2009,
+        "isbn": "978-0000000031",
+        "description": "An emotional story set against the backdrop of a relentless storm.",
+        "availability": true
+      },
+      {
+        "id": 32,
+        "title": "The Time Weaver",
+        "author": "Frank Dalton",
+        "genre": "Science Fiction",
+        "published_year": 2013,
+        "isbn": "978-0000000032",
+        "description": "A novel where time travel and destiny intertwine in unexpected ways.",
+        "availability": false
+      },
+      {
+        "id": 33,
+        "title": "Midnight Run",
+        "author": "Grace Liu",
+        "genre": "Thriller",
+        "published_year": 2000,
+        "isbn": "978-0000000033",
+        "description": "A fast-paced thriller that takes place under the cover of night.",
+        "availability": true
+      },
+      {
+        "id": 34,
+        "title": "Legacy of the Fallen",
+        "author": "Henry Matthews",
+        "genre": "Historical Fiction",
+        "published_year": 1991,
+        "isbn": "978-0000000034",
+        "description": "A historical saga that recounts the rise and fall of an ancient dynasty.",
+        "availability": true
+      },
+      {
+        "id": 35,
+        "title": "Embers of War",
+        "author": "Isabel Torres",
+        "genre": "Historical Fiction",
+        "published_year": 2005,
+        "isbn": "978-0000000035",
+        "description": "A vivid portrayal of conflict and its impact on generations.",
+        "availability": false
+      },
+      {
+        "id": 36,
+        "title": "Canvas of Dreams",
+        "author": "Jack Robinson",
+        "genre": "Fiction",
+        "published_year": 1998,
+        "isbn": "978-0000000036",
+        "description": "A story about art, ambition, and the beauty of dreams.",
+        "availability": true
+      },
+      {
+        "id": 37,
+        "title": "The Hidden Fortress",
+        "author": "Karen Brooks",
+        "genre": "Adventure",
+        "published_year": 2002,
+        "isbn": "978-0000000037",
+        "description": "A daring adventure into a fortress filled with peril and intrigue.",
+        "availability": true
+      },
+      {
+        "id": 38,
+        "title": "Whirlwind",
+        "author": "Leonard Ford",
+        "genre": "Thriller",
+        "published_year": 2010,
+        "isbn": "978-0000000038",
+        "description": "A pulse-pounding thriller where every moment counts.",
+        "availability": false
+      },
+      {
+        "id": 39,
+        "title": "The Silent Guardian",
+        "author": "Monica Young",
+        "genre": "Mystery",
+        "published_year": 1997,
+        "isbn": "978-0000000039",
+        "description": "A tale of a guardian who watches over a city riddled with secrets.",
+        "availability": true
+      },
+      {
+        "id": 40,
+        "title": "Eternal Voyage",
+        "author": "Nathan Cole",
+        "genre": "Adventure",
+        "published_year": 2014,
+        "isbn": "978-0000000040",
+        "description": "An epic adventure that spans across time and oceans.",
+        "availability": true
+      },
+      {
+        "id": 41,
+        "title": "Whispers of the Wind",
+        "author": "Olivia King",
+        "genre": "Fiction",
+        "published_year": 2006,
+        "isbn": "978-0000000041",
+        "description": "A reflective tale of life, loss, and the gentle voice of nature.",
+        "availability": false
+      },
+      {
+        "id": 42,
+        "title": "Neon Nights",
+        "author": "Paul Bennett",
+        "genre": "Science Fiction",
+        "published_year": 2018,
+        "isbn": "978-0000000042",
+        "description": "A futuristic story set in a neon-lit cityscape.",
+        "availability": true
+      },
+      {
+        "id": 43,
+        "title": "Under the Rising Sun",
+        "author": "Quincy Harper",
+        "genre": "Historical Fiction",
+        "published_year": 1989,
+        "isbn": "978-0000000043",
+        "description": "A historical novel set during transformative times in the East.",
+        "availability": true
+      },
+      {
+        "id": 44,
+        "title": "Fragments of Infinity",
+        "author": "Rebecca Allen",
+        "genre": "Science Fiction",
+        "published_year": 2016,
+        "isbn": "978-0000000044",
+        "description": "A mind-bending tale exploring the nature of time and space.",
+        "availability": false
+      },
+      {
+        "id": 45,
+        "title": "The Silver Lining",
+        "author": "Samuel Grant",
+        "genre": "Fiction",
+        "published_year": 2003,
+        "isbn": "978-0000000045",
+        "description": "A heartwarming story about finding hope in unexpected places.",
+        "availability": true
+      },
+      {
+        "id": 46,
+        "title": "Riddles of the Past",
+        "author": "Tina Morales",
+        "genre": "Mystery",
+        "published_year": 1995,
+        "isbn": "978-0000000046",
+        "description": "A detective story that uncovers clues hidden in ancient texts.",
+        "availability": true
+      },
+      {
+        "id": 47,
+        "title": "Spectrum",
+        "author": "Uma Patel",
+        "genre": "Drama",
+        "published_year": 2007,
+        "isbn": "978-0000000047",
+        "description": "A reflective drama about the diverse shades of human emotion.",
+        "availability": false
+      },
+      {
+        "id": 48,
+        "title": "The Last Ember",
+        "author": "Victor Chen",
+        "genre": "Fantasy",
+        "published_year": 2012,
+        "isbn": "978-0000000048",
+        "description": "A fantasy tale where the final ember of magic holds the fate of a kingdom.",
+        "availability": true
+      },
+      {
+        "id": 49,
+        "title": "Parallel Worlds",
+        "author": "Wendy Larson",
+        "genre": "Science Fiction",
+        "published_year": 2009,
+        "isbn": "978-0000000049",
+        "description": "A speculative fiction exploring the possibilities of alternate dimensions.",
+        "availability": true
+      },
+      {
+        "id": 50,
+        "title": "The Crimson Blade",
+        "author": "Xavier Ruiz",
+        "genre": "Adventure",
+        "published_year": 1992,
+        "isbn": "978-0000000050",
+        "description": "An adventurous saga revolving around a legendary, enchanted sword.",
+        "availability": false
+      },
+      {
+        "id": 51,
+        "title": "Veil of Secrets",
+        "author": "Yvonne Scott",
+        "genre": "Mystery",
+        "published_year": 2004,
+        "isbn": "978-0000000051",
+        "description": "A suspense-filled mystery that unravels hidden truths.",
+        "availability": true
+      },
+      {
+        "id": 52,
+        "title": "Rise of the Phoenix",
+        "author": "Zachary Green",
+        "genre": "Fantasy",
+        "published_year": 2010,
+        "isbn": "978-0000000052",
+        "description": "A fantasy epic about rebirth and the power of renewal.",
+        "availability": true
+      },
+      {
+        "id": 53,
+        "title": "The Labyrinth",
+        "author": "Alice Monroe",
+        "genre": "Mystery",
+        "published_year": 1993,
+        "isbn": "978-0000000053",
+        "description": "A mysterious maze of puzzles and hidden passageways.",
+        "availability": false
+      },
+      {
+        "id": 54,
+        "title": "Shattered Illusions",
+        "author": "Bob Clayton",
+        "genre": "Drama",
+        "published_year": 2008,
+        "isbn": "978-0000000054",
+        "description": "A dramatic story about confronting and overcoming broken dreams.",
+        "availability": true
+      },
+      {
+        "id": 55,
+        "title": "Celestial Dreams",
+        "author": "Catherine Reeves",
+        "genre": "Science Fiction",
+        "published_year": 2014,
+        "isbn": "978-0000000055",
+        "description": "A futuristic journey into the realm of dreams and outer space.",
+        "availability": true
+      },
+      {
+        "id": 56,
+        "title": "Whispers of Fate",
+        "author": "David Ellis",
+        "genre": "Thriller",
+        "published_year": 2001,
+        "isbn": "978-0000000056",
+        "description": "A thriller that weaves destiny with unforeseen twists.",
+        "availability": false
+      },
+      {
+        "id": 57,
+        "title": "The Dreamcatcher",
+        "author": "Eva Sinclair",
+        "genre": "Fantasy",
+        "published_year": 1999,
+        "isbn": "978-0000000057",
+        "description": "A magical tale about capturing and understanding dreams.",
+        "availability": true
+      },
+      {
+        "id": 58,
+        "title": "Reflections",
+        "author": "Frank Dalton",
+        "genre": "Fiction",
+        "published_year": 2006,
+        "isbn": "978-0000000058",
+        "description": "A reflective narrative that explores life’s pivotal moments.",
+        "availability": true
+      },
+      {
+        "id": 59,
+        "title": "Secrets of the Deep",
+        "author": "Grace Liu",
+        "genre": "Adventure",
+        "published_year": 2011,
+        "isbn": "978-0000000059",
+        "description": "An undersea adventure full of hidden dangers and ancient mysteries.",
+        "availability": false
+      },
+      {
+        "id": 60,
+        "title": "Fragments of Memory",
+        "author": "Henry Matthews",
+        "genre": "Drama",
+        "published_year": 1996,
+        "isbn": "978-0000000060",
+        "description": "A touching exploration of memory and the passage of time.",
+        "availability": true
+      },
+      {
+        "id": 61,
+        "title": "The Edge of Reality",
+        "author": "Isabel Torres",
+        "genre": "Science Fiction",
+        "published_year": 2007,
+        "isbn": "978-0000000061",
+        "description": "A speculative novel that challenges perceptions of reality.",
+        "availability": true
+      },
+      {
+        "id": 62,
+        "title": "Labyrinth of Lies",
+        "author": "Jack Robinson",
+        "genre": "Mystery",
+        "published_year": 1994,
+        "isbn": "978-0000000062",
+        "description": "A mystery where each clue leads to deeper deceptions.",
+        "availability": false
+      },
+      {
+        "id": 63,
+        "title": "Midnight Whispers",
+        "author": "Karen Brooks",
+        "genre": "Horror",
+        "published_year": 2013,
+        "isbn": "978-0000000063",
+        "description": "A horror tale where the night holds unfathomable secrets.",
+        "availability": true
+      },
+      {
+        "id": 64,
+        "title": "The Final Chapter",
+        "author": "Leonard Ford",
+        "genre": "Drama",
+        "published_year": 2000,
+        "isbn": "978-0000000064",
+        "description": "A powerful narrative about endings and new beginnings.",
+        "availability": true
+      },
+      {
+        "id": 65,
+        "title": "Emerald Skies",
+        "author": "Monica Young",
+        "genre": "Fantasy",
+        "published_year": 2015,
+        "isbn": "978-0000000065",
+        "description": "A fantasy adventure set under mystical emerald skies.",
+        "availability": false
+      },
+      {
+        "id": 66,
+        "title": "Shadows of Yesterday",
+        "author": "Nathan Cole",
+        "genre": "Historical Fiction",
+        "published_year": 1990,
+        "isbn": "978-0000000066",
+        "description": "A story that connects the past with the present through lost memories.",
+        "availability": true
+      },
+      {
+        "id": 67,
+        "title": "Vortex",
+        "author": "Olivia King",
+        "genre": "Science Fiction",
+        "published_year": 2003,
+        "isbn": "978-0000000067",
+        "description": "A high-stakes adventure in a swirling vortex of time and space.",
+        "availability": true
+      },
+      {
+        "id": 68,
+        "title": "The Burning City",
+        "author": "Paul Bennett",
+        "genre": "Thriller",
+        "published_year": 2012,
+        "isbn": "978-0000000068",
+        "description": "A thriller set in a city on the brink of chaos.",
+        "availability": false
+      },
+      {
+        "id": 69,
+        "title": "Crystal Dreams",
+        "author": "Quincy Harper",
+        "genre": "Fantasy",
+        "published_year": 2008,
+        "isbn": "978-0000000069",
+        "description": "A tale of magic and wonder woven with crystalline visions.",
+        "availability": true
+      },
+      {
+        "id": 70,
+        "title": "Fading Echoes",
+        "author": "Rebecca Allen",
+        "genre": "Mystery",
+        "published_year": 1998,
+        "isbn": "978-0000000070",
+        "description": "A mystery that unravels slowly, echoing through time.",
+        "availability": true
+      },
+      {
+        "id": 71,
+        "title": "Abyss of Time",
+        "author": "Samuel Grant",
+        "genre": "Science Fiction",
+        "published_year": 2005,
+        "isbn": "978-0000000071",
+        "description": "A narrative that blurs the lines between past and future.",
+        "availability": false
+      },
+      {
+        "id": 72,
+        "title": "The Wandering Star",
+        "author": "Tina Morales",
+        "genre": "Adventure",
+        "published_year": 2011,
+        "isbn": "978-0000000072",
+        "description": "An adventurous quest guided by a mysterious star.",
+        "availability": true
+      },
+      {
+        "id": 73,
+        "title": "Beyond the Veil",
+        "author": "Uma Patel",
+        "genre": "Horror",
+        "published_year": 1997,
+        "isbn": "978-0000000073",
+        "description": "A horror story that blurs the line between reality and nightmare.",
+        "availability": true
+      },
+      {
+        "id": 74,
+        "title": "Threads of Destiny",
+        "author": "Victor Chen",
+        "genre": "Drama",
+        "published_year": 2004,
+        "isbn": "978-0000000074",
+        "description": "A dramatic exploration of fate and interconnected lives.",
+        "availability": false
+      },
+      {
+        "id": 75,
+        "title": "Mystic Tides",
+        "author": "Wendy Larson",
+        "genre": "Fantasy",
+        "published_year": 2010,
+        "isbn": "978-0000000075",
+        "description": "A fantasy novel where the tides of magic shape destinies.",
+        "availability": true
+      },
+      {
+        "id": 76,
+        "title": "The Final Frontier",
+        "author": "Xavier Ruiz",
+        "genre": "Science Fiction",
+        "published_year": 2009,
+        "isbn": "978-0000000076",
+        "description": "A daring expedition into the unknown regions of space.",
+        "availability": true
+      },
+      {
+        "id": 77,
+        "title": "Echoes of Silence",
+        "author": "Yvonne Scott",
+        "genre": "Mystery",
+        "published_year": 1995,
+        "isbn": "978-0000000077",
+        "description": "A mystery wrapped in silence and hidden messages.",
+        "availability": false
+      },
+      {
+        "id": 78,
+        "title": "Reverberations",
+        "author": "Zachary Green",
+        "genre": "Drama",
+        "published_year": 2013,
+        "isbn": "978-0000000078",
+        "description": "A dramatic narrative that resonates with emotional depth.",
+        "availability": true
+      },
+      {
+        "id": 79,
+        "title": "Celestial Orbits",
+        "author": "Alice Monroe",
+        "genre": "Science Fiction",
+        "published_year": 2016,
+        "isbn": "978-0000000079",
+        "description": "An exploration of cosmic patterns and celestial mysteries.",
+        "availability": true
+      },
+      {
+        "id": 80,
+        "title": "The Shifting Sands",
+        "author": "Bob Clayton",
+        "genre": "Adventure",
+        "published_year": 2000,
+        "isbn": "978-0000000080",
+        "description": "A thrilling adventure set in a desert of ever-changing dunes.",
+        "availability": false
+      },
+      {
+        "id": 81,
+        "title": "Melodies of the Heart",
+        "author": "Catherine Reeves",
+        "genre": "Romance",
+        "published_year": 2002,
+        "isbn": "978-0000000081",
+        "description": "A romantic journey intertwined with the magic of music.",
+        "availability": true
+      },
+      {
+        "id": 82,
+        "title": "The Icebound Legacy",
+        "author": "David Ellis",
+        "genre": "Historical Fiction",
+        "published_year": 1992,
+        "isbn": "978-0000000082",
+        "description": "A historical epic set in the cold, unforgiving landscapes of the past.",
+        "availability": true
+      },
+      {
+        "id": 83,
+        "title": "Whirlwind Hearts",
+        "author": "Eva Sinclair",
+        "genre": "Romance",
+        "published_year": 2007,
+        "isbn": "978-0000000083",
+        "description": "A passionate romance that develops amid turbulent times.",
+        "availability": false
+      },
+      {
+        "id": 84,
+        "title": "Spectrum of Life",
+        "author": "Frank Dalton",
+        "genre": "Drama",
+        "published_year": 2005,
+        "isbn": "978-0000000084",
+        "description": "A reflective exploration of the many facets of human existence.",
+        "availability": true
+      },
+      {
+        "id": 85,
+        "title": "The Midnight Mirror",
+        "author": "Grace Liu",
+        "genre": "Horror",
+        "published_year": 2011,
+        "isbn": "978-0000000085",
+        "description": "A horror story centered around a mirror that reveals dark truths.",
+        "availability": true
+      },
+      {
+        "id": 86,
+        "title": "Labyrinth of Dreams",
+        "author": "Henry Matthews",
+        "genre": "Fantasy",
+        "published_year": 2014,
+        "isbn": "978-0000000086",
+        "description": "A fantasy narrative where dreams weave intricate labyrinths.",
+        "availability": false
+      },
+      {
+        "id": 87,
+        "title": "The Iron Crown",
+        "author": "Isabel Torres",
+        "genre": "Historical Fiction",
+        "published_year": 2008,
+        "isbn": "978-0000000087",
+        "description": "A historical tale of power, betrayal, and the struggle for a crown.",
+        "availability": true
+      },
+      {
+        "id": 88,
+        "title": "Veins of the Earth",
+        "author": "Jack Robinson",
+        "genre": "Adventure",
+        "published_year": 1999,
+        "isbn": "978-0000000088",
+        "description": "An adventurous exploration of the hidden riches beneath the earth.",
+        "availability": true
+      },
+      {
+        "id": 89,
+        "title": "Whispers in the Rain",
+        "author": "Karen Brooks",
+        "genre": "Fiction",
+        "published_year": 2003,
+        "isbn": "978-0000000089",
+        "description": "A subtle and evocative story that unfolds during a rainy day.",
+        "availability": false
+      },
+      {
+        "id": 90,
+        "title": "Shadows of the Mind",
+        "author": "Leonard Ford",
+        "genre": "Mystery",
+        "published_year": 2010,
+        "isbn": "978-0000000090",
+        "description": "A psychological mystery that explores the dark corners of the mind.",
+        "availability": true
+      },
+      {
+        "id": 91,
+        "title": "The Wandering Soul",
+        "author": "Monica Young",
+        "genre": "Drama",
+        "published_year": 2006,
+        "isbn": "978-0000000091",
+        "description": "A moving story about self-discovery and the quest for inner peace.",
+        "availability": true
+      },
+      {
+        "id": 92,
+        "title": "Crimson Shadows",
+        "author": "Nathan Cole",
+        "genre": "Horror",
+        "published_year": 1998,
+        "isbn": "978-0000000092",
+        "description": "A horror novel with chilling encounters in the dead of night.",
+        "availability": false
+      },
+      {
+        "id": 93,
+        "title": "Distant Echoes",
+        "author": "Olivia King",
+        "genre": "Mystery",
+        "published_year": 2001,
+        "isbn": "978-0000000093",
+        "description": "A mystery where echoes of the past resurface in unexpected ways.",
+        "availability": true
+      },
+      {
+        "id": 94,
+        "title": "Fragments of Light",
+        "author": "Paul Bennett",
+        "genre": "Fiction",
+        "published_year": 2013,
+        "isbn": "978-0000000094",
+        "description": "A luminous narrative that finds hope in fragmented moments.",
+        "availability": true
+      },
+      {
+        "id": 95,
+        "title": "The Eternal Garden",
+        "author": "Quincy Harper",
+        "genre": "Fantasy",
+        "published_year": 1997,
+        "isbn": "978-0000000095",
+        "description": "A fantasy realm where a magical garden defies the passage of time.",
+        "availability": false
+      },
+      {
+        "id": 96,
+        "title": "Labyrinthine Paths",
+        "author": "Rebecca Allen",
+        "genre": "Mystery",
+        "published_year": 2004,
+        "isbn": "978-0000000096",
+        "description": "A mystery that twists through a maze of intricate paths.",
+        "availability": true
+      },
+      {
+        "id": 97,
+        "title": "The Final Symphony",
+        "author": "Samuel Grant",
+        "genre": "Drama",
+        "published_year": 2012,
+        "isbn": "978-0000000097",
+        "description": "A dramatic tale that plays out like a grand symphony of life.",
+        "availability": true
+      },
+      {
+        "id": 98,
+        "title": "Celestial Rhythms",
+        "author": "Tina Morales",
+        "genre": "Science Fiction",
+        "published_year": 2015,
+        "isbn": "978-0000000098",
+        "description": "A science fiction journey that finds order in cosmic chaos.",
+        "availability": false
+      },
+      {
+        "id": 99,
+        "title": "Mysteries Unbound",
+        "author": "Uma Patel",
+        "genre": "Mystery",
+        "published_year": 2007,
+        "isbn": "978-0000000099",
+        "description": "A captivating mystery that defies conventional boundaries.",
+        "availability": true
+      },
+      {
+        "id": 100,
+        "title": "Infinite Horizons",
+        "author": "Victor Chen",
+        "genre": "Adventure",
+        "published_year": 2018,
+        "isbn": "978-0000000100",
+        "description": "An adventurous tale exploring endless possibilities beyond the horizon.",
+        "availability": true
+      }
+    ]
+  }
